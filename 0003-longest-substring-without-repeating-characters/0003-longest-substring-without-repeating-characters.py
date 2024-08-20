@@ -9,5 +9,4 @@ class Solution(object):
                 l += 1
             charSet.add(s[i])
             maxLen = max(maxLen, (i + 1) - l)
-            print(charSet)
         return maxLen
