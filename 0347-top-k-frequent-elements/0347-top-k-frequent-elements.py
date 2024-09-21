@@ -7,16 +7,7 @@ class Solution(object):
                 freq[i] += 1
             else:
                 freq[i] = 1
-        sortlist = []
-        x = list(freq.items())
-        print(x)
-        for i in range(len(x)):
-            max_idx = i
-            for j in range(i+1, len(x)):
-                if x[j][1] > x[max_idx][1]:
-                    max_idx = j
-            x[i], x[max_idx] = x[max_idx], x[i]
-        for i in range(k):
-            res.append(x[i][0])
+        sorted_freq = sorted(freq.items(), key=lambda x: x[1], reverse=True)
+        res = [i[0] for i in sorted_freq[:k]]
         return res
             
