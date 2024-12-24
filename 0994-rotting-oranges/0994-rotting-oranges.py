@@ -25,7 +25,6 @@ class Solution(object):
                         grid[r][c] = 2
                         queue.append((r,c))
                         fresh -= 1
-                    print(queue)
             minutes += 1
         if fresh > 0:
             return -1
