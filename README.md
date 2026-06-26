@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ritz10001/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritz10001/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ritz10001/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
