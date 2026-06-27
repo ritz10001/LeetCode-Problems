@@ -1,31 +1,25 @@
+import copy
 class Solution(object):
     def gameOfLife(self, board):
-        offsets = [(-1,-1),(-1,0),(-1,1),(0,-1),
-                (0,1),(1,-1),(1,0), (1,1)]
-        rows = len(board)
-        cols = len(board[0])
-        def mark_cell(r,c):
-            live = 0
-            dead = 0
-            for (i, j) in offsets:
-                rx = i + r
-                cy = j + c
-                if 0 <= rx < rows and 0 <= cy < cols:
-                    if boardcopy[rx][cy] == 1:
-                        live += 1
-                    else:
-                        dead += 1
-            if boardcopy[r][c] == 1 and live < 2:
-                board[r][c] = 0 #mark as dead
-            elif boardcopy[r][c] == 1 and 2 <= live <= 3:
-                board[r][c] = 1
-            elif boardcopy[r][c] == 1 and live > 3:
-                board[r][c] = 0
-            elif boardcopy[r][c] == 0 and live == 3:
-                board[r][c] = 1
-                
-        boardcopy = copy.deepcopy(board)
-        for r in range(rows):
-            for c in range(cols):
-                mark_cell(r,c)
-            
+        boardCopy = copy.deepcopy(board)
+        offsets = [(0,1),(1,0),(1,1),(-1,-1),(-1,0),(0,-1), (-1,1),(1,-1)]
+        r = len(boardCopy)
+        c = len(boardCopy[0])
+        for i in range(r):
+            for j in range(c):
+                current_cell = boardCopy[i][j]
+                live_neighbors = 0
+                for x, y in offsets:
+                    offset_x = x + i
+                    offset_y = y + j
+                    if 0 <= offset_x < r and 0 <= offset_y < c and boardCopy[offset_x][offset_y] == 1: # live cell
+                        live_neighbors += 1
+                if current_cell == 1 and live_neighbors < 2:
+                    board[i][j] = 0 # mark as dead
+                elif current_cell == 1 and live_neighbors in (2,3):
+                    board[i][j] = 1 # lives in the next generation
+                elif current_cell == 1 and live_neighbors > 3:
+                    board[i][j] = 0 # dies by overpopulation
+                elif current_cell == 0 and live_neighbors == 3:
+                    board[i][j] = 1 # becomes alive
+        
