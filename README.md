@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ritz10001/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritz10001/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0045-jump-game-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ritz10001/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritz10001/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -28,6 +30,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
