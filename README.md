@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +82,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
