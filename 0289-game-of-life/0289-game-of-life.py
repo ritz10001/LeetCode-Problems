@@ -12,14 +12,12 @@ class Solution(object):
                 for x, y in offsets:
                     offset_x = x + i
                     offset_y = y + j
-                    if 0 <= offset_x < r and 0 <= offset_y < c and boardCopy[offset_x][offset_y] == 1: # live cell
-                        live_neighbors += 1
-                if current_cell == 1 and live_neighbors < 2:
-                    board[i][j] = 0 # mark as dead
-                elif current_cell == 1 and live_neighbors in (2,3):
-                    board[i][j] = 1 # lives in the next generation
-                elif current_cell == 1 and live_neighbors > 3:
-                    board[i][j] = 0 # dies by overpopulation
-                elif current_cell == 0 and live_neighbors == 3:
-                    board[i][j] = 1 # becomes alive
+                    if 0 <= offset_x < r and 0 <= offset_y < c: # live cell
+                        live_neighbors += boardCopy[offset_x][offset_y]
+                if current_cell == 1:
+                    if live_neighbors not in (2,3):
+                        board[i][j] = 0 
+                else:
+                    if live_neighbors == 3:
+                        board[i][j] = 1
         
