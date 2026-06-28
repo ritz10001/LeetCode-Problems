@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritz10001/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
