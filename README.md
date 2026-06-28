@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritz10001/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
