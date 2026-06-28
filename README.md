@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
