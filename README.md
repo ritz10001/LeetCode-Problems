@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/ritz10001/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/ritz10001/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -34,11 +35,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritz10001/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -79,6 +82,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritz10001/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
