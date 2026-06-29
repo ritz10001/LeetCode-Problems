@@ -1,12 +1,15 @@
 class Solution(object):
     def dailyTemperatures(self, temperatures):
-        res = [0 for i in range(len(temperatures))]
+        n = len(temperatures)
         stack = []
-        for i in range(len(temperatures)):
-            while stack and temperatures[i] > temperatures[stack[-1]]:
-                idx = stack.pop()
-                res[idx] = i - idx
+        res = [0] * n
+        for i in range(n-1, -1, -1):
+            while stack and temperatures[stack[-1]] <= temperatures[i]:
+                stack.pop()
+            if stack:
+                res[i] = stack[-1] - i
             stack.append(i)
         return res
 
+                
         
