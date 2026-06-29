@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
+| [0739-daily-temperatures](https://github.com/ritz10001/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,8 +121,13 @@
 | [0020-valid-parentheses](https://github.com/ritz10001/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ritz10001/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/ritz10001/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/ritz10001/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ritz10001/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
