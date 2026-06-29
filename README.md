@@ -37,6 +37,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -99,6 +100,7 @@
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritz10001/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
