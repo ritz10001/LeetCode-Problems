@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritz10001/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/ritz10001/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ritz10001/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
@@ -111,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ritz10001/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
