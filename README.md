@@ -104,6 +104,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ritz10001/LeetCode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/ritz10001/LeetCode-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
@@ -131,6 +132,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/ritz10001/LeetCode-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/ritz10001/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ritz10001/LeetCode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/ritz10001/LeetCode-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -152,4 +155,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/ritz10001/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ritz10001/LeetCode-Problems/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
