@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ritz10001/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ritz10001/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ritz10001/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -135,6 +136,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ritz10001/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
