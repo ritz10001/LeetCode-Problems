@@ -39,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ritz10001/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ritz10001/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/ritz10001/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -139,10 +141,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ritz10001/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ritz10001/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritz10001/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
