@@ -168,6 +168,7 @@
 | [0110-balanced-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,9 @@
 | [0110-balanced-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
