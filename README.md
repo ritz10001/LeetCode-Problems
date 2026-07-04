@@ -169,6 +169,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
