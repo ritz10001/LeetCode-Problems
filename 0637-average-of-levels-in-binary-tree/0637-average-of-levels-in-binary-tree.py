@@ -10,22 +10,17 @@ class Solution(object):
         if not root:
             return []
         queue = deque([root])
-        res = [root.val]
+        res = []
         while queue:
             level_size = len(queue)
             summ = 0
-            nodes = 0
             for i in range(level_size):
                 node = queue.popleft()
+                summ += node.val
                 if node.left:
                     queue.append(node.left)
-                    summ += node.left.val
-                    nodes += 1
                 if node.right:
                     queue.append(node.right)
-                    summ += node.right.val
-                    nodes += 1
-            if nodes > 0:
-                res.append(summ / float(nodes))
+            res.append(summ / float(level_size))
         return res
         
