@@ -10,20 +10,17 @@ class Solution(object):
         if not root:
             return []
         queue = deque([root])
-        res = [[root.val]]
+        res = []
         while queue:
-            temp = []
+            level = []
             for i in range(len(queue)):
                 node = queue.popleft()
-
+                level.append(node.val)
                 if node.left:
-                    temp.append(node.left.val)
                     queue.append(node.left)
                 if node.right:
-                    temp.append(node.right.val)
                     queue.append(node.right)
-            if temp:
-                res.append(temp)
+            res.append(level)
         return res
         
 
