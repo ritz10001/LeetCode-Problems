@@ -178,6 +178,7 @@
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/ritz10001/LeetCode-Problems/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Depth-First Search
@@ -193,6 +194,7 @@
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/ritz10001/LeetCode-Problems/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/ritz10001/LeetCode-Problems/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Binary Search Tree
