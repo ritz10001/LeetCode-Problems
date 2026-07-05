@@ -176,6 +176,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -192,6 +193,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -206,6 +208,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -221,6 +224,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -229,6 +233,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
