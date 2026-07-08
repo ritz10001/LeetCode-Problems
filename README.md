@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritz10001/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ritz10001/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 ## Simulation
@@ -125,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@
 | [0110-balanced-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritz10001/LeetCode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -214,6 +218,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ritz10001/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
