@@ -7,22 +7,21 @@ class Solution(object):
         visited = set()
         islands = 0
 
-        def bfs(r, c):
-            queue = deque([(r,c)])
-            while queue:
-                R, C = queue.popleft()
-                for dr, dc in directions:
-                    currentR = R + dr
-                    currentC = C + dc
-                    if 0 <= currentR < rows and 0 <= currentC < cols and grid[currentR][currentC] == "1" and (currentR, currentC) not in visited:
-                        visited.add((currentR, currentC))
-                        queue.append((currentR, currentC))
+        def dfs(r, c):
+            if not (0 <= r < rows and 0 <= c < cols and grid[r][c] == "1" and (r,c) not in visited):
+                return 0
+            visited.add((r, c))
+            dfs(r, c + 1)
+            dfs(r, c - 1)
+            dfs(r + 1, c)
+            dfs(r - 1, c)
+
             return 1
 
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == "1" and (r, c) not in visited:
-                    islands += bfs(r, c)
+                    islands += dfs(r, c)
         return islands
         
