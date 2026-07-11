@@ -15,8 +15,8 @@ class Solution(object):
             if node in old_to_new:
                 return old_to_new[node]
             new_node = Node(node.val) # create the node clone
+            old_to_new[node] = new_node
             for neigh in node.neighbors:
-                old_to_new[node] = new_node
                 new_node.neighbors.append(dfs(neigh))
             return new_node
         return dfs(node)
