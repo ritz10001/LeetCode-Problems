@@ -1,32 +1,36 @@
 from collections import deque
 class Solution(object):
     def orangesRotting(self, grid):
-        fresh = 0
+        time = 0
+        directions = [(-1,0), (0,-1), (1,0), (0,1)]
+        queue = deque([])
         rows = len(grid)
         cols = len(grid[0])
-        queue = deque([])
-        minutes = 0
-        directions = [(-1,0),(0,-1),(1,0),(0,1)]
+
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == 2: # rotten orange
+                    queue.append((r,c))
+        
+        while queue:
+            rotten_oranges = len(queue)
+            infected = False
+            for i in range(rotten_oranges):
+                r, c = queue.popleft()
+                for dr, dc in directions:
+                    R = r + dr
+                    C = c + dc
+                    if 0 <= R < rows and 0 <= C < cols and grid[R][C] == 1:
+                        grid[R][C] = 2 # mark as rotten
+                        queue.append((R,C))
+                        infected = True
+            if infected:
+                time += 1
+
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 1:
-                    fresh += 1
-                elif grid[r][c] == 2:
-                    queue.append((r,c))
-                else:
-                    continue
-        while fresh > 0 and queue:
-            for _ in range(len(queue)):
-                row, col = queue.popleft()
-                for dr, dc in directions:
-                    r = row + dr
-                    c = col + dc
-                    if 0<=r<rows and 0<=c<cols and grid[r][c] == 1:
-                        grid[r][c] = 2
-                        queue.append((r,c))
-                        fresh -= 1
-            minutes += 1
-        if fresh > 0:
-            return -1
-        return minutes
+                    return -1 # because there are still fresh oranges
+        return time
+    
         
