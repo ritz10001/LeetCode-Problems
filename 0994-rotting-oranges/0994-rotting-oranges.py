@@ -6,13 +6,16 @@ class Solution(object):
         queue = deque([])
         rows = len(grid)
         cols = len(grid[0])
+        fresh_oranges = 0
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 2: # rotten orange
                     queue.append((r,c))
+                if grid[r][c] == 1:
+                    fresh_oranges += 1
         
-        while queue:
+        while queue and fresh_oranges > 0:
             rotten_oranges = len(queue)
             infected = False
             for i in range(rotten_oranges):
@@ -23,14 +26,12 @@ class Solution(object):
                     if 0 <= R < rows and 0 <= C < cols and grid[R][C] == 1:
                         grid[R][C] = 2 # mark as rotten
                         queue.append((R,C))
-                        infected = True
-            if infected:
-                time += 1
+                        fresh_oranges -= 1
+            time += 1
 
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 1:
-                    return -1 # because there are still fresh oranges
-        return time
+        
+        if fresh_oranges == 0:
+            return time
+        return -1
     
         
