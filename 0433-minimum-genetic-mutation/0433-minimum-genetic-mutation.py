@@ -3,7 +3,6 @@ class Solution(object):
     def minMutation(self, startGene, endGene, bank):
         mutations = 0
         queue = deque([startGene])
-        currentGene = startGene
         visited = set()
 
         def validMutations(currentGene):
