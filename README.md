@@ -63,6 +63,7 @@
 | [0125-valid-palindrome](https://github.com/ritz10001/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/ritz10001/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [0202-happy-number](https://github.com/ritz10001/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/ritz10001/LeetCode-Problems/tree/main/0290-word-pattern/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/ritz10001/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
