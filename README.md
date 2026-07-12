@@ -205,6 +205,7 @@
 | [0133-clone-graph](https://github.com/ritz10001/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -224,6 +225,7 @@
 | [0133-clone-graph](https://github.com/ritz10001/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ritz10001/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -264,4 +266,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ritz10001/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
