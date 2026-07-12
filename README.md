@@ -30,6 +30,7 @@
 | [0228-summary-ranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
 | [0739-daily-temperatures](https://github.com/ritz10001/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0994-rotting-oranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@
 | [0130-surrounded-regions](https://github.com/ritz10001/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ritz10001/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/ritz10001/LeetCode-Problems/tree/main/0289-game-of-life/) | Medium |
+| [0994-rotting-oranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ritz10001/LeetCode-Problems/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ritz10001/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritz10001/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/ritz10001/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
