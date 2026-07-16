@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/ritz10001/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ritz10001/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/ritz10001/LeetCode-Problems/tree/main/0057-insert-interval/) | Medium |
+| [0078-subsets](https://github.com/ritz10001/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritz10001/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritz10001/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritz10001/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -277,4 +278,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ritz10001/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/ritz10001/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/ritz10001/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
